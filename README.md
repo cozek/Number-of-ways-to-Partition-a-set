@@ -5,6 +5,7 @@ Genetic Algorithms and the power of python 3 itertools.
 Main idea is to generate all the unique 1 way, 2 way, ..., (n-1) way unique combinations from the given data. 
 
 when n=3, we will have the following unique combinations.
+
 [('r1',), ('r2',), ('r3',)], [('r1', 'r2'), ('r1', 'r3'), ('r2', 'r3')], [('r1', 'r2', 'r3')]
 
 Pop the last guy, as its already 1 way to parition a set.
