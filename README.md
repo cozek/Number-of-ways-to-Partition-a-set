@@ -1,6 +1,5 @@
 # Number-of-ways-to-Partition-a-set
-Solved the problem of "Given a set of n elements, find number of ways of partitioning it" using algorithm derived from 
-Genetic Algorithms and the power of python 3 itertools. 
+### Solved the problem of "Given a set of n elements, find number of ways of partitioning it" using algorithm derived from  Genetic Algorithms and the power of python 3 itertools. 
 
 Main idea is to generate all the unique 1 way, 2 way, ..., (n-1) way unique combinations from the given data. 
 
